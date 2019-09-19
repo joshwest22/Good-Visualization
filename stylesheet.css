@@ -1,1 +1,32 @@
-
+body
+{
+    background-image: radial-gradient(#06276F,#1142AA,#6C8DD5);
+    color: aliceblue;
+    font-size: 20; 
+}
+h1,h2,h3
+{
+    color: #6C006C;
+}
+#badbody
+{
+    background-image: linear-gradient(crimson,red,darkred);
+    font-size: 20;
+}
+#goodbody
+{
+    background-image: linear-gradient(#499500,#6AAC2B,#AEF26D);
+    font-size: 20;
+}
+a:hover
+{
+    color:aqua;
+}
+a:link
+{
+    color:limegreen;
+}
+a:visited
+{
+    color: tomato;
+}
